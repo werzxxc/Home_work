@@ -1,4 +1,4 @@
-<h2>Задание</h2>
+<h2>Задание 1</h2>
 Cверстать лендинг на HTML и CSS.<br>
 Макет на <a href="https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-Pied-Piper?node-id=0%3A1">figma.com:</a>
 <br>Требования и подсказки по макету:
@@ -11,3 +11,10 @@ Cверстать лендинг на HTML и CSS.<br>
 <li>Чтобы расположить блоки в ряд, можно использовать display: inline-block.
 <li>Избегать установки width и height вручную. Большинство размеров можно выразить через margin и padding. Исключение - картинки и фиксированный контейнер страницы.
 <li>Свойство position можно задать только для шапки.
+
+<h2>Задание 2</h2>
+Для grid_exercise.html и grid.css
+Задание на тренировку умения верстать колонки с макета <br>
+Макет на <a href="https://www.figma.com/file/Ey4hA2woPeTiXiMnlKAYRF/Grid-Exercise?node-id=0%3A1">figma.com:</a>
+<br>
+Не макете отображены блоки, которые необходимо распределить по колонкам
